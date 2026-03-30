@@ -33,9 +33,9 @@ Phase 2: Power BI (Upcoming)
 - High-level interactive visualisations and automated reporting.
 
 4. Data Architecture
-The project utilizes a Relational Data Model consisting of:
+The project utilises a Relational Data Model consisting of:
 
-- Dim_Products: Master list of 10+ products, categories, and costs.
-- Dim_Clients: Details of 10 UK retail partners.
-- Fact_Sales: 200+ transaction records from the 2025 fiscal year.
+- Dim_Products: Master list of products, categories, and costs.
+- Dim_Clients: Details of UK retail partners.
+- Fact_Sales: Transaction records from the 2025 fiscal year.
 - Fact_Feedback: Customer satisfaction data linked to sales transactions.
