@@ -4,6 +4,7 @@ Advanced B2B Supply Chain &amp; Retailer Performance Analysis for Nexus Gaming. 
 Nexus Gaming B2B: Supply Chain & Retailer Performance Analysis
 
 1. Project Overview
+   
 Nexus Gaming is a UK-based B2B wholesaler specialising in gaming hardware, software, and merchandise. This project demonstrates a complete data analysis lifecycle—from raw data ingestion to professional business intelligence reporting.
 
 The goal is to provide the management team with insights into distribution efficiency, client profitability, and product performance across 10 key retail partners in the UK.
