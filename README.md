@@ -1,4 +1,11 @@
 # nexus-gaming-b2b-analysis
+
+# Nexus Gaming - B2B Performance Dashboard
+![Dashboard Preview](./03_Documentation/Nexus_Dashboard_Preview.png)
+
+> **Project Status:** Excel & Power Pivot is **COMPLETE**. Check the `04_Output` folder for the interactive dashboard.
+
+
 Advanced B2B Supply Chain &amp; Retailer Performance Analysis for Nexus Gaming. Built with Excel (Power Query &amp; Data Modelling) and Power BI.
 
 Nexus Gaming B2B: Supply Chain & Retailer Performance Analysis
