@@ -16,13 +16,17 @@ Nexus Gaming is a UK-based B2B wholesaler specialising in gaming hardware, softw
 
 The goal is to provide the management team with insights into distribution efficiency, client profitability, and product performance across 10 key retail partners in the UK.
 
-2. Business Objectives (KPIs)
-The analysis focuses on answering the following strategic questions:
+2. Business Results & Insights
 
-- Financial Health: What is the Total Revenue vs. Gross Profit across all categories?
-- Distribution Reach: Which UK regions (Portsmouth, London, Manchester, etc.) are driving the highest order volumes?
-- Client Segmentation: Who are our top-performing retail partners based on Average Order Value (AOV)?
-- Operational Quality: How does the "Return Rate" impact our bottom line, and is there a correlation with "Customer Satisfaction" (Feedback Ratings)?
+Phase 1: Key Business Insights
+
+Revenue & Profit Engines: The South East and Yorkshire are the primary drivers of profitability. The South East remains the most critical territory, maintaining high Gross Profit margins alongside peak order volumes.
+
+Product Performance: The RTX 4070 Super is the top-performing hardware in the Midlands and South East. However, its lower penetration in Northern regions suggests a clear opportunity for targeted sales growth.
+
+Regional Satisfaction Trends: While national customer satisfaction peaks in April, a regional deep-dive shows the South East achieves its highest ratings in January and February, suggesting a different seasonal efficiency cycle for our largest market.
+
+Service Bottlenecks: Data identifies July as the month with the consistently lowest feedback ratings across all regions. This trend follows the high-volume period in May, indicating a potential service lag or supply chain strain during post-peak recovery.
 
 3. Technical Stack
 This project is divided into two distinct phases to show a progression of analytical skills:
