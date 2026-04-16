@@ -67,6 +67,7 @@ This project is divided into two distinct phases to show a progression of analyt
 **Phase 2: Power BI**
 - Migration of the Excel Data Model to Power BI Desktop.
 - Advanced DAX (Data Analysis Expressions) for time-intelligence reporting.
+- Implementation of Star Schema and advanced Data Modelling to ensure reporting accuracy
 - High-level interactive visualisations and automated reporting.
 
 ## **4. Data Architecture**
